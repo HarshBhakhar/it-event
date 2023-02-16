@@ -1,0 +1,24 @@
+{
+    "navbar" : [
+        {
+            "name" : "Home",
+            "href" : "/home.html"
+        },
+        {
+            "name" : "About",
+            "href" : "/about.html"
+        },
+        {
+            "name" : "Gallery",
+            "href" : "/gallery.html"
+        },
+        {
+            "name" : "Contact",
+            "href" : "/contact.html"
+        }
+    ],
+
+    "footer" : {
+        "events" : ["Famliy","Features","Corporate"]
+    }
+}
